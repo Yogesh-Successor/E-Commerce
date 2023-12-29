@@ -1,0 +1,12 @@
+Search Box with button
+
+Product showing page with same button
+Type select box
+Product Review Like/Dislike
+Component Like count or dislike count
+Comments
+
+Add to Cart 
+Remove Component
+
+Review 
